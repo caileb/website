@@ -1,0 +1,36 @@
+body { background: white;
+       color: black;
+       font-size: 14pt; 
+       
+       font-family: 'Proza Libre', sans-serif; }
+       
+h1 { font-size: 300%;
+     font-weight: bold;
+     color: solidblack; 
+     list-style-type: none;}
+     
+h2 { font-style: italic;
+     font-size: 150%;
+     text-decoration: underline;
+     list-style-type: none; }
+     
+     
+nav li {display: inline-block;
+        border: 6px solid black;
+        background: darkgray;
+        padding: 30px;
+        margin: 60px }
+        
+a {color: black;
+   font-weight: bold;
+   text-decoration: none}
+a:hover {color: white;
+         background: darkgray}
+         
+         ul {
+  list-style-type: none;
+}
+
+    
+    
+            
